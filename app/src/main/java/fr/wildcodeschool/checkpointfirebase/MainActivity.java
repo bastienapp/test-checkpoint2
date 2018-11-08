@@ -39,8 +39,5 @@ public class MainActivity extends AppCompatActivity {
                 Log.d(TAG, "onCancelled: " + databaseError.getMessage());
             }
         });
-
-        // TODO : modifier la valeur de la chaîne dans String.xml
-        String firebaseAccount = getString(R.string.firebase_node);
     }
 }
