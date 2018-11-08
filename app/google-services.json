@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976869397347",
+    "firebase_url": "https://checkpoint-c22bb.firebaseio.com",
+    "project_id": "checkpoint-c22bb",
+    "storage_bucket": "checkpoint-c22bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976869397347:android:6a5a09bccda6b388",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.checkpointfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976869397347-1nd83irnko4pfdji502pl3dcdfqm3fs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.checkpointfirebase",
+            "certificate_hash": "39b628db43a28908ea27523f960cb30720a85b93"
+          }
+        },
+        {
+          "client_id": "976869397347-t9pih17lmrrom2ruodpsa2hgpopbffhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFBE6q3aVH0kvpr4ai0sV4WVyjJYiHkSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976869397347-t9pih17lmrrom2ruodpsa2hgpopbffhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

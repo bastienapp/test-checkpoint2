@@ -1,0 +1,7 @@
+<resources>
+    <!-- TODO modifier avec ton prenom-NOM -->
+    <string name="firebase_node">tacos</string>
+
+    <string name="app_name">CheckpointFirebase</string>
+    <string name="firebase_loading">Firebase loading…</string>
+</resources>
